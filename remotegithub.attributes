@@ -10,3 +10,11 @@ our work will continue locally
 1. add a new file called note.text
 2.we want this change to be reflected in remote repository so we PUSHED local commits to remote repo using push origin button 
 4. observe it has been added in your repository under GitHum.com
+
+how to save after adding some text in 
+in mac command + s 
+on windows control + s 
+or click on file -> save 
+
+we do not have to push one comit at time 
+you can push multiple commit in one shot
